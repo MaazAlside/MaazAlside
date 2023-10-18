@@ -20,9 +20,9 @@
 <!--Intro start-->
 - 🔭 I’m currently Studing **Software Engineering**
 
-- 🌱 I’m currently learning **to build a complex amazing user interface**
+- 🌱 I’m currently learning **Frontend dev**
 
-- ☁️ I've keen interest in UX/UI. So,I'm learning **AWS**
+- ☁️ I've keen interest in provide a easible, enjoyable user experience. So,I'm learning **UX/UI**
 
 - 📫 Feel free to reach me out **maazalside@gmail.com**
 
